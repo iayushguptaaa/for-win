@@ -77,4 +77,4 @@ Some notable components include:
    applications using a 9P dataflow
  * [VPNKit](https://github.com/docker/vpnkit), a set of tools and
    services for helping HyperKit VMs interoperate with host VPN
-   configurations
+   configurations.
